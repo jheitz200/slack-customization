@@ -728,7 +728,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 .channel_header_icon { color: #b7d0e8; }
 
-.channel_calls_button .call_icon.call_window_offline { color: #949494; }
+.channel_calls_button .call_icon.call_window_offline { color: #ffffff; }
 
 .channel_actions_toggle.active:focus, .details_toggle.active:focus { color: #b7d0e8; }
 
@@ -1749,7 +1749,7 @@ ts-thread .new_reply_indicator .blue_dot { color: #bf360c; }
 
 #details_tab .channel_page_action .leave_link:hover { color: #c7c7c7; }
 
-#details_tab .channel_section_label .ts_icon_info_circle { color: #949494; }
+#details_tab .channel_section_label .ts_icon_info_circle { color: #ffffff; }
 
 #details_tab .feature_sli_channel_insights .channel_created_section .creator_link, #details_tab .feature_sli_channel_insights .channel_purpose_section .channel_purpose_text { color: #949494; }
 
@@ -2765,7 +2765,7 @@ a.c-member_slug--mention, a.c-member_slug--mention:hover { background-color: #ff
 
 #edit_team_profile_list .row:nth-child(n+5).active, #edit_team_profile_list .row:nth-child(n+5):hover { background: #363636; border: 1px solid #000; }
 
-#edit_team_profile_list .row:nth-child(n+5).active .edit_team_profile_list_controls i.ts_icon_cog_o { color: #949494; }
+#edit_team_profile_list .row:nth-child(n+5).active .edit_team_profile_list_controls i.ts_icon_cog_o { color: #ffffff; }
 
 #edit_team_profile_list .edit_team_profile_list_controls i { color: #b7d0e8; }
 
