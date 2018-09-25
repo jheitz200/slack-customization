@@ -726,7 +726,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 .channel_header_info button { color: #949494; }
 
-.channel_header_icon { color: #b7d0e8; }
+.channel_header_icon { color: #ffffff; }
 
 .channel_calls_button .call_icon.call_window_offline { color: #949494; }
 
