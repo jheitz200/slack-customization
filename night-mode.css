@@ -674,7 +674,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 .tab_complete_ui .not_in_channel { color: #949494; }
 
-#team_menu { background: #363636; border-bottom: 2px solid #363636; color: #b7d0e8; }
+#team_menu { background: #363636; border-bottom: 2px solid #363636; color: #ffffff; }
 
 #team_menu.active, #team_menu:hover { background: #363636 !important; border-bottom-color: #363636 !important; }
 
@@ -712,7 +712,7 @@ input[disabled], input[readonly], textarea[disabled], textarea[readonly] { backg
 
 .messages_header { color: #b7d0e8; }
 
-.channel_title .channel_name_container .channel_name { color: #b7d0e8; }
+.channel_title .channel_name_container .channel_name { color: #ffffff; }
 
 .channel_title .channel_name_container .channel_name.muted { color: #949494; }
 
