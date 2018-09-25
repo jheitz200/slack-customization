@@ -2317,7 +2317,7 @@ ts-thread .collapse_inline_thread_container:hover, ts-thread .view_all_replies_c
 
 .c-member__display-name, .c-team__display-name, .c-usergroup__handle { color: #b7d0e8; }
 
-.c-member__current-status--small::before, .c-member__secondary-name--large + .c-member__current-status--large::before, .c-member__secondary-name--medium + .c-member__current-status--medium::before { color: #b7d0e8; }
+.c-member__current-status--small::before, .c-member__secondary-name--large + .c-member__current-status--large::before, .c-member__secondary-name--medium + .c-member__current-status--medium::before { color: #ffffff; }
 
 .c-member .external_team_badge { background-color: #545454; box-shadow: 0 0 0 2px #545454; }
 
