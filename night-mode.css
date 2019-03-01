@@ -1983,6 +1983,8 @@ html.no_touch a.filetype_button_web:hover .file_title { color: #b7d0e8; }
 
 .c-message_kit__file { color: #000; }
 
+.c-message_kit__file__meta { color: #fff; }
+
 .c-pillow_file__description, .c-pillow_file__title { color: #000; }
 
 #user_groups_pane .mention { background: rgba(191, 54, 12, 0.25); border: 0; border-radius: 3px; padding: 2px; }
