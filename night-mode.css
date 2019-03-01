@@ -1327,7 +1327,7 @@ ts-message .reply_bar:hover { background: #222; border-color: #000; }
 
 .inline_color_block { border-color: #545454; }
 
-.p-message_input_field .c-texty_input--multi_line .c-texty_input .ql-container { background: #545454; border-color: #424242; color: #b7d0e8; }
+.p-message_input_field { background: #545454; border-color: #424242; color: #b7d0e8; }
 
 .p-message_pane .c-message_list.c-virtual_list--scrollbar > .c-scrollbar__hider { background: #222; }
 
@@ -1981,7 +1981,7 @@ html.no_touch a.filetype_button_web:hover .file_title { color: #b7d0e8; }
 
 .p-file_details__meta_container .c-file__action_button { color: #fff; }
 
-.c-pillow_file__description, .c-pillow_file__title { background: #545454; border-color: #363636; color: #fff; }
+.c-pillow_file, .c-pillow_file__description, .c-pillow_file__title { background: #545454; border-color: #363636; color: #fff; }
 
 #user_groups_pane .mention { background: rgba(191, 54, 12, 0.25); border: 0; border-radius: 3px; padding: 2px; }
 
