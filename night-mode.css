@@ -1981,7 +1981,7 @@ html.no_touch a.filetype_button_web:hover .file_title { color: #b7d0e8; }
 
 .c-pillow_file_container { background: #545454; border-color: #363636; color: #b7d0e8; }
 
-.c-pillow_file__description, .c-pillow_file__title { color: #b7d0e8; }
+.c-pillow_file__description, .c-pillow_file__title { background: #545454; color: #b7d0e8; }
 
 #user_groups_pane .mention { background: rgba(191, 54, 12, 0.25); border: 0; border-radius: 3px; padding: 2px; }
 
