@@ -1327,7 +1327,7 @@ ts-message .reply_bar:hover { background: #222; border-color: #000; }
 
 .inline_color_block { border-color: #545454; }
 
-.p-message_input { background: #545454; border-color: #424242; color: #b7d0e8; }
+.p-message_input_field { background: #545454; border-color: #424242; color: #b7d0e8; }
 
 .p-message_pane .c-message_list.c-virtual_list--scrollbar > .c-scrollbar__hider { background: #222; }
 
